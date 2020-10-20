@@ -19,5 +19,5 @@ git add -A
 git commit -m "something you want to describle this commit"
 ### push this commit to the remote repo on GitHub
 git push origin [name of your branch]
-Now you can see the changes on github BluePay page!
+### Now you can see the changes on github BluePay page!
 
