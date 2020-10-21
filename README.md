@@ -7,7 +7,7 @@ https://git-scm.com/downloads
 ### open git shell, go to the directory where you want the project to be at, For example:
 cd ~/Documents/
 ### clone the project 
-git clone https://github.com/HeranGa0/BluePay.git
+git clone https://github.com/AmEX-BluePay/BluePay.git
 ### Go to the project directory
 cd BluePay
 ### Create and checkout to your own branch
