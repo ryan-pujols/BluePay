@@ -11,7 +11,7 @@ git clone https://github.com/AmEX-BluePay/BluePay.git
 ### Go to the project directory
 cd BluePay
 ### Create and checkout to your own branch
-git checkout -b [name of your branch]
+git checkout -b {name of branch}
 ### modify the README.md file to add something you like
 ### add the changes to your local
 git add -A
@@ -20,4 +20,5 @@ git commit -m "something you want to describle this commit"
 ### push this commit to the remote repo on GitHub
 git push origin [name of your branch]
 ### Now you can see the changes on github BluePay page!
+hello this is a test -ryan
 
